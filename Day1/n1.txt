@@ -1,0 +1,41 @@
+
+
+Gen AI application irrespective of any LLM Model
+Langchain
+-- Langsmith -- LLMOps (Monitor , debug , testing , analytics dashboard)
+-- Langserve -- API's (Fast API) 
+-- Chains ( data ingestions and transformation)
+-- Agents ,Retrieval
+-- LCEL (Langchain expression language)
+Model i/o, Retriever and agent tooling
+
+
+LLM models creation is by big companies -- how to use them in an application in generic way to and focusing to  build any application  
+
+Models: These are the actual language models you want to use. Langchain supports integration with various LLMs
+
+Prompts: These are the inputs given to the language models. Langchain provides utilities to construct effective prompts and manage them
+
+Chains: Chains are sequences of operations that can be performed on the input data before passing it to the language model, and on the output data after getting it from the model. 
+They allow you to build complex pipelines and workflows.
+
+Agents: Agents are higher-level abstractions that can use one or more language models, along with other 
+tools and data sources, to accomplish multi-step tasks. They can engage in reasoning, planning, and decision-making.
+
+Memory: Langchain provides different types of memory components that can be used to store and retrieve information 
+across multiple interactions with a language model, enabling it to maintain context and state
+This framework consists of severaparts.
+
+
+LangChain Libraries: 
+The Python and JavaScript libraries. Contains interfaces and integrations for a myriad of components, a basic run time for combining these 
+components into chains and agents, and off-the-shelf implementations of chains and agents.
+
+LangChain Templates: 
+A collection of easily deployable reference architectures for a wide variety of tasks.
+
+LangServe: 
+A library for deploying LangChain chains as a REST API.
+
+LangSmith: 
+A developer platform that lets you debug, test, evaluate, and monitor chains built on any LLM framework and seamlessly integrates with LangChain.
