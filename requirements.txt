@@ -3,3 +3,9 @@ streamlit
 python-dotenv
 google-generativeai
 anthropic
+spacy
+chromadb
+pypdf
+langchain-openai
+langchain-community
+huggingface_hub
