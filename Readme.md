@@ -108,16 +108,16 @@ The generation phase produces the final response based on the user query and aug
 
 
 ### What problems does RAG solve
-RAG Architecture is an improvement over standalone LLMs, because of
+1. RAG Architecture is an improvement over standalone LLMs, because of
 Knowledge cutoffs
-LLMs have fixed knowledge as of their training date, while RAG can access up-to-date information
+2. LLMs have fixed knowledge as of their training date, while RAG can access up-to-date information
 Hallucinations
-LLMs may generate plausible but incorrect information, while RAG grounds responses in factual sources
-Domain expertise
+3. LLMs may generate plausible but incorrect information, while RAG grounds responses in factual sources
+4. Domain expertise
 • LLMs have generalized knowledge, while RAG can access specialized
 information
-Private data access
-⚫ LLMs don't know your organization's private information, while RAG can connect to proprietary data
+5. Private data access
+   LLMs don't know your organization's private information, while RAG can connect to proprietary data
 
 
 

@@ -9,3 +9,9 @@ pypdf
 langchain-openai
 langchain-community
 huggingface_hub
+beautifulsoup4
+langchain
+langchain-ollama
+langchain-chroma
+
+pandas
