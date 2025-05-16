@@ -13,5 +13,15 @@ beautifulsoup4
 langchain
 langchain-ollama
 langchain-chroma
-
+langchain-google-genai 
 pandas
+PyPDF2
+datasets[audio]
+transformers
+torch
+tensorflow
+ipywidgets
+datasets
+accelerate
+evaluate
+timm

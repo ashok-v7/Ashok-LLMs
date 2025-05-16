@@ -1,0 +1,5 @@
+The AI Toolkit for VS Code (AI Toolkit) is a VS Code extension that enables you to download, test, fine-tune, and deploy AI models with your apps or in the cloud. For more information, see the AI Toolkit overview.
+Install the AI Toolkit for VS Code
+Download a model from the catalog
+Run the model locally using the playground
+Integrate an AI model into your application using REST or the ONNX Runtime
