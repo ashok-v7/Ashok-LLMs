@@ -19,7 +19,7 @@ import os
 load_dotenv(dotenv_path=".env", override=True)
 
 # Access updated value
-print("REFRESHED VALUE:", os.getenv("GEMINI_API_KEY"))
+#print("REFRESHED VALUE:", os.getenv("GEMINI_API_KEY"))
 
 # Extract text from uploaded PDF files
 def get_pdf_text(pdf_docs):
